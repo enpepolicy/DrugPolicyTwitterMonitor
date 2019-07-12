@@ -1,0 +1,6 @@
+- Datos recopilados para "cocaina" en Colombia, API Twitter: ultimos 30 dias (ejecutado el 12/07/2019):
+  - rt : 31
+  - quotes : 54
+  - nativoReply : 164
+  - nativoMain : 121
+- TOTAL : 370 (tweets)
